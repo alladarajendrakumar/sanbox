@@ -1,2 +1,6 @@
 This is file3
+<<<<<<< HEAD
 Changing same file by devloper 1 for pull scenario
+=======
+This is pull scenarios changing same file 3
+>>>>>>> ee87de8c51a89bf2eea103fae3303f4ac5baf826
